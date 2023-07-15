@@ -1,0 +1,191 @@
+.btn-float {
+  position: fixed;
+  right:20px;
+  top:80px;
+  padding: 8px 13px;
+}
+.btn-float-2 {
+  position: fixed;
+  right:20px;
+  top:140px;
+  padding: 8px 15px;
+}
+.btn-float-3 {
+  position: fixed;
+  right:20px;
+  top:200px;
+  padding: 8px 13px;
+}
+.btn-float-4 {
+  position: fixed;
+  right:20px;
+  top:260px;
+  padding: 8px 14px;
+}
+.btn-float i {
+  font-size: 18px !important;
+}
+.modal-kot-sorting button {
+  border-radius: 0;
+}
+.sort-pane {
+  display: none;
+}
+.sort-pane.active {
+    display: block;
+}
+.color-one {
+  background:#ccf;
+}
+.color-two {
+  background:#cfc;
+}
+.color-three {
+  background:#ffc;
+}
+.color-four {
+  background:#ffc7f5;
+}
+
+.color-five {
+  background:#cae8ff;
+}
+
+.sticky-masonry {
+  /*-webkit-column-count: 4;
+  -moz-column-count:4;
+  column-count: 4;
+  -webkit-column-gap: 1em;
+  -moz-column-gap: 1em;
+  column-gap: 1em;
+  -moz-column-gap: 1.5em;
+  -webkit-column-gap: 1.5em;
+  column-gap: 1.5em;*/
+  margin: 1em;
+  padding:1em;
+  width:100%;
+}
+.sticky-item {
+    display: inline-block;
+    padding: 1.5em;
+    margin: 0 0 1.5em;
+    -webkit-transition:1s ease all;
+    /*width: 100%;*/
+    width: 24%;
+    float:left; 
+}
+
+.stickynote .sticky-masonry .sticky-item a{
+  text-decoration:none;
+  color:#000;
+  display:block;
+  min-height:10em;
+  height:auto;
+  width:96%;
+  padding:1em;
+  -moz-box-shadow: 1px 1px 4px 0px #757575;
+  -webkit-box-shadow: 1px 1px 4px 0px #757575;
+  box-shadow: 1px 1px 4px 0px #757575;
+  -moz-transition:-moz-transform .15s linear;
+  -o-transition:-o-transform .15s linear;
+  -webkit-transition:-webkit-transform .15s linear;
+}
+
+.stickynote .sticky-masonry .sticky-item h2{
+  font-size:16px;
+  font-weight:bold;
+  margin:0;
+  padding:5px 0;
+}
+.stickynote .sticky-masonry .sticky-item small{
+  font-size:11px;
+  display: block;
+}
+.stickynote .sticky-masonry .sticky-item p{
+  font-family:"Reenie Beanie",arial,sans-serif;
+  font-size:15px;
+}
+.stickynote .sticky-masonry .sticky-item span{
+  font-size:16px;
+  float:right;
+}
+.stickynote .sticky-masonry .sticky-item a{
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform:rotate(-6deg);
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(even) a{
+  -o-transform:rotate(4deg);
+  -webkit-transform:rotate(4deg);
+  -moz-transform:rotate(4deg);
+  position:relative;
+  top:5px;
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(3n) a{
+  -o-transform:rotate(-3deg);
+  -webkit-transform:rotate(-3deg);
+  -moz-transform:rotate(-3deg);
+  position:relative;
+  top:-5px;
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(5n) a{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+}
+/*
+.stickynote .sticky-masonry .sticky-item a:hover, .stickynote .sticky-masonry .sticky-item a:focus,
+.stickynote .sticky-masonry .sticky-item:nth-child(even) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(even) a:focus,
+.stickynote .sticky-masonry .sticky-item:nth-child(3n) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(3n) a:focus,
+.stickynote .sticky-masonry .sticky-item:nth-child(5n) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(5n) a:focus{
+  box-shadow:3px 3px 3px 0px #757575;
+  -moz-box-shadow:1px 3px 3px 3px #757575;
+  -webkit-box-shadow: 3px 3px 3px 0px #757575;
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  z-index:5;
+  margin-bottom: 50px;
+}
+.stickynote .sticky-masonry .sticky-item a:hover, .stickynote .sticky-masonry .sticky-item a:focus {
+  top:21px;
+  left:10px;
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(even) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(even) a:focus {
+  top:5px;
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(3n) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(3n) a:focus {
+  right: 10px;
+}
+.stickynote .sticky-masonry .sticky-item:nth-child(5n) a:hover, .stickynote .sticky-masonry .sticky-item:nth-child(5n) a:focus{
+  right: 10px;
+}
+.stickynote .sticky-masonry .sticky-item a:hover p, .stickynote .sticky-masonry .sticky-item a:focus p{
+  font-size: 12px;
+}
+*/
+/* */
+
+.kot-parent{
+ display: inline-block;
+ margin-top: 0.5em;
+}
+.kot-img{
+ width: 20%;
+ display: inline-block;
+ float: left;
+}
+.kot-desc{
+ width: 65%;
+ display: inline-block;
+ margin-left: 3%;
+}
+.kot-remove{
+ width: 10%;
+ display: inline-block;
+ float: right;
+ color: #ff917d;
+}

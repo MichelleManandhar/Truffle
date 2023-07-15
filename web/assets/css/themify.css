@@ -1,0 +1,75 @@
+
+.themify.themify-blue .theme-color {
+	color: #62a8ea;
+}
+.themify.themify-blue .theme-bg-color {
+	background-color: #62a8ea;
+}
+
+
+.themify.themify-lightblue .theme-color {
+	color: #57c7d4;
+}
+.themify.themify-lightblue .theme-bg-color {
+	background-color: #57c7d4;
+}
+
+
+.themify.themify-teal .theme-color {
+	color: #3aa99e;
+}
+.themify.themify-teal .theme-bg-color {
+	background-color: #3aa99e;
+}
+
+
+.themify.themify-orange .theme-color {
+	color: #f2a654;
+}
+.themify.themify-orange .theme-bg-color {
+	background-color: #f2a654;
+}
+
+
+.themify.themify-red .theme-color {
+	color: #f96868;
+}
+.themify.themify-red .theme-bg-color {
+	background-color: #f96868;
+}
+
+
+.themify.themify-purple .theme-color {
+	color: #926dde;
+}
+.themify.themify-purple .theme-bg-color {
+	background-color: #926dde;
+}
+
+
+.themify.themify-green .theme-color {
+	color: #279566;
+}
+.themify.themify-green .theme-bg-color {
+	background-color: #279566;
+}
+
+.themify.themify-coffee .theme-color {
+	color:  #6f4e37;
+}
+.themify.themify-coffee .theme-bg-color {
+	/*background-color:  #6f4e37;*/
+	background-color: #5f3417;
+}
+
+.themify.themify-restaurant .theme-color {
+	color:  #279566;
+}
+.themify.themify-restaurant .theme-bg-color {
+	/*background-color:  #279566;*/
+	/*background: #FF8008;*/ /* fallback for old browsers */
+	/*background: -webkit-linear-gradient(to right, #FF9D41 , #F9BA5C);*/ /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #FF9D41 , #F9BA5C);*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    background: transparent;
+
+}

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+ <vatreport>
+ <vatentry>
+  <bill_date>2017-12-18 11:13:24</bill_date>
+  <invoice_no>18-61</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>1243</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1100</taxable_amount>
+  <vat_amount>143</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-18 12:15:04</bill_date>
+  <invoice_no>18-62</invoice_no>
+  <customer_name>Sugen</customer_name>
+  <customer_pan>0</customer_pan>
+  <total>1119</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>990</taxable_amount>
+  <vat_amount>128.71</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-18 14:23:50</bill_date>
+  <invoice_no>18-63</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>249</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>220</taxable_amount>
+  <vat_amount>28.6</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:39:54</bill_date>
+  <invoice_no>18-64</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>224</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>198</taxable_amount>
+  <vat_amount>25.74</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:41:43</bill_date>
+  <invoice_no>18-65</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>0</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>0</taxable_amount>
+  <vat_amount>0</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:43:22</bill_date>
+  <invoice_no>18-66</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>0</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>0</taxable_amount>
+  <vat_amount>0</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:47:08</bill_date>
+  <invoice_no>18-67</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>1577</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1395.9</taxable_amount>
+  <vat_amount>181.47</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:49:10</bill_date>
+  <invoice_no>18-68</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>224</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>198</taxable_amount>
+  <vat_amount>25.74</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:50:39</bill_date>
+  <invoice_no>18-69</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>2585</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>2288</taxable_amount>
+  <vat_amount>297.44</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:54:11</bill_date>
+  <invoice_no>18-70</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>5171</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>4576</taxable_amount>
+  <vat_amount>594.88</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 14:59:05</bill_date>
+  <invoice_no>18-71</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>5171</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>4576</taxable_amount>
+  <vat_amount>594.88</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 15:01:12</bill_date>
+  <invoice_no>18-72</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>0</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>0</taxable_amount>
+  <vat_amount>0</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 15:06:48</bill_date>
+  <invoice_no>18-73</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>472</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>418</taxable_amount>
+  <vat_amount>54.34</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:10:27</bill_date>
+  <invoice_no>18-74</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>783</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>693</taxable_amount>
+  <vat_amount>90.09</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:39:41</bill_date>
+  <invoice_no>18-75</invoice_no>
+  <customer_name>Df</customer_name>
+  <customer_pan>123123</customer_pan>
+  <total>186</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>165</taxable_amount>
+  <vat_amount>21.45</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:39:42</bill_date>
+  <invoice_no>18-76</invoice_no>
+  <customer_name>Asdfasdf</customer_name>
+  <customer_pan>12321</customer_pan>
+  <total>497</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>440</taxable_amount>
+  <vat_amount>57.2</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:55:18</bill_date>
+  <invoice_no>18-77</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>566</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>500.5</taxable_amount>
+  <vat_amount>65.07</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:55:19</bill_date>
+  <invoice_no>18-78</invoice_no>
+  <customer_name></customer_name>
+  <customer_pan>0</customer_pan>
+  <total>2020</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1787.5</taxable_amount>
+  <vat_amount>232.38</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:56:22</bill_date>
+  <invoice_no>18-79</invoice_no>
+  <customer_name>Sugen</customer_name>
+  <customer_pan>12354</customer_pan>
+  <total>472</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>418</taxable_amount>
+  <vat_amount>54.34</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 16:56:23</bill_date>
+  <invoice_no>18-80</invoice_no>
+  <customer_name>Promish</customer_name>
+  <customer_pan>9876</customer_pan>
+  <total>1585</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1402.5</taxable_amount>
+  <vat_amount>182.33</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 17:03:27</bill_date>
+  <invoice_no>18-82</invoice_no>
+  <customer_name>Promish</customer_name>
+  <customer_pan>987867</customer_pan>
+  <total>528</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>467.5</taxable_amount>
+  <vat_amount>60.78</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-20 17:03:27</bill_date>
+  <invoice_no>18-81</invoice_no>
+  <customer_name>Sugen</customer_name>
+  <customer_pan>1234</customer_pan>
+  <total>2057</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1820.5</taxable_amount>
+  <vat_amount>236.67</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-21 14:52:29</bill_date>
+  <invoice_no>Sales Return Invoice 18-81</invoice_no>
+  <customer_name>Sugen</customer_name>
+  <customer_pan>1234</customer_pan>
+  <total>2057</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1820.5</taxable_amount>
+  <vat_amount>236.67</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-21 14:53:15</bill_date>
+  <invoice_no>Sales Return Invoice 18-82</invoice_no>
+  <customer_name>Promish</customer_name>
+  <customer_pan>987867</customer_pan>
+  <total>528</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>467.5</taxable_amount>
+  <vat_amount>60.78</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-21 14:53:51</bill_date>
+  <invoice_no>Sales Return Invoice 18-80</invoice_no>
+  <customer_name>Promish</customer_name>
+  <customer_pan>9876</customer_pan>
+  <total>1585</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>1402.5</taxable_amount>
+  <vat_amount>182.33</vat_amount>
+ </vatentry>
+ <vatentry>
+  <bill_date>2017-12-21 14:55:00</bill_date>
+  <invoice_no>Sales Return Invoice 18-79</invoice_no>
+  <customer_name>Sugen</customer_name>
+  <customer_pan>12354</customer_pan>
+  <total>472</total>
+  <tax_exempt_sales>0</tax_exempt_sales>
+  <zero_rated_sales>0</zero_rated_sales>
+  <taxable_amount>418</taxable_amount>
+  <vat_amount>54.34</vat_amount>
+ </vatentry>
+ </vatreport>

@@ -1,0 +1,1 @@
+get-WmiObject -class Win32_printer | ft name, systemName >> C:\xampp\htdocs\truffle-pan\web\assets\shell\printers.txt

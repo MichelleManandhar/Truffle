@@ -1,0 +1,140 @@
+body.dashboard {
+	padding-top: 60px !important;
+}
+body.workplace{
+    background-image: url(../images/bg-1.jpg);
+   /* background: rgb(251,146,115);
+    background: -moz-linear-gradient(left, rgba(251,146,115,1) 0%, rgba(255, 189, 106) 50%, rgba(240, 196, 70) 100%);
+    background: -webkit-linear-gradient(left, rgba(251,146,115,1) 0%,rgba(255, 189, 106) 50%,rgba(240, 196, 70) 100%);
+    background: linear-gradient(to right, rgb(251, 146, 115) 0%,rgb(255, 189, 106) 50%,rgb(240, 196, 70) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2825b', endColorstr='#f07146',GradientType=1 );*/
+    background-repeat: repeat;
+    padding-top: 30px !important;
+}
+
+body.workplace .navbar{
+    background-color: transparent !important;
+}
+body.workplace nav{
+	background-image: url(../images/bg-1.jpg) !important;
+	/*background: rgb(251,146,115);
+    background: -moz-linear-gradient(left, rgba(251,146,115,1) 0%, rgba(255, 189, 106) 50%, rgba(240, 196, 70) 100%);
+    background: -webkit-linear-gradient(left, rgba(251,146,115,1) 0%,rgba(255, 189, 106) 50%,rgba(240, 196, 70) 100%);
+    background: linear-gradient(to right, rgb(251, 146, 115) 0%,rgb(255, 189, 106) 50%,rgb(240, 196, 70) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2825b', endColorstr='#f07146',GradientType=1 );*/
+    background-repeat: repeat;
+}
+body.workplace .page{
+    background-color: transparent;
+}
+
+body.workplace .panel-body{
+    padding: 0 10px !important;
+}
+body.workplace .panel-footer{
+    padding-top: 5px;
+}
+body.workplace .panel{
+	margin-bottom: 0;
+	height: 670px;
+}
+body.workplace .page-content{
+	padding-bottom: 0;
+}
+body.workplace .panel-title{
+	padding: 20px 18px;
+	text-transform: uppercase;
+}
+body.workplace .custom-button .btn{
+    background: #A76737;
+    border-color: #966540;
+    height: 50px !important;
+    width: 50px !important;
+    font-weight: 400;
+}
+body.workplace .custom-button .btn:hover{
+    background: #8E572D;
+}
+body.workplace .custom-button .discount-btn{
+	background: #B57241;
+	border-color: #B57241;
+}
+body.workplace td i{
+	color: #ffffff;
+}
+body.workplace td .close-btn{
+	background: #f7836f;
+	padding: 3px 10px;
+}
+body.workplace .table thead .th-qty-width{
+	width: 155px;
+}
+/*body.workplace .custom-touchspin .input-group.bootstrap-touchspin{
+	margin-left: 50px;
+}*/
+body.workplace .table td input{
+	padding: 6px;
+}
+body.workplace .custom-touchspin input{
+	padding: 6px;
+	width: 52px;
+}
+body.workplace .nav-tabs>li.active>a, body.workplace .nav-tabs>li.active>a:focus, body.workplace .nav-tabs>li.active>a:hover{
+	border-radius: 0;
+	background: #A76737;
+	border-bottom: 0;
+}
+body.workplace .site-menubar.site-menubar-light{
+	background: #583418;
+    color: #fff;
+}
+body.workplace .site-menubar-light .site-menu-item>a:hover {
+    color: inherit;
+    background-color: rgb(134, 76, 33);
+}
+body.workplace .site-menu-category{
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 0;
+}
+body.workplace .menu-active{
+	color: #ffffff;
+	background: rgb(134, 76, 33);
+}
+body.workplace .slider-menu.double-menu.slick-initialized.slick-slider .slick-prev.slick-arrow, .slider-menu.double-menu.slick-initialized.slick-slider .slick-next.slick-arrow{
+	display: block;
+    background: rgba(125, 125, 125, 0.41);
+    height: 224px;
+    top: 4%;
+    width: 25px;
+}
+body.workplace .slider-menu.double-menu.slick-initialized.slick-slider .slick-prev.slick-arrow:hover, .slider-menu.double-menu.slick-initialized.slick-slider .slick-next.slick-arrow:hover{
+	background: rgba(134, 134, 134, 0.53);
+}
+body.workplace .slider-menu.slick-initialized.slick-slider .slick-prev.slick-arrow, .slider-menu.slick-initialized.slick-slider .slick-next.slick-arrow{
+	display: block;
+    background: rgba(125, 125, 125, 0.41);
+    height: 105px;
+    top: 10%;
+    width: 25px;
+}
+body.workplace .slider-menu.slick-initialized.slick-slider .slick-prev.slick-arrow:hover, .slider-menu.slick-initialized.slick-slider .slick-next.slick-arrow:hover{
+	background: rgba(134, 134, 134, 0.53);
+}
+body.workplace .slick-dots li button:before{
+	font-size: 15px;
+	color: #fff;
+}
+body.workplace .menu-margin-top-5:nth-child(2n+1){
+	margin-top: 5px;
+}
+body.workplace .menu-category{
+	margin-left: 0;
+}
+body.workplace input{
+	input,
+	input::-webkit-input-placeholder {
+	    font-size: 5px !important;
+	    /*line-height: 3;*/
+	}
+}

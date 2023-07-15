@@ -1,0 +1,19 @@
+body{
+	background-image: url('../images/concrete_seamless.png');
+}
+
+h1{
+	color: royalblue;
+}
+
+.margin-top-5{
+	margin-top: 5%;
+}
+
+.mm-page{
+	background: transparent !important;
+}
+
+.margin-top-70 {
+	margin-top: 70px;
+}
